@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<componentModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm11="http://schemas.microsoft.com/dsltools/UseCaseModel" dslVersion="1.0.0.0" Id="993d89d7-9f50-4447-96e8-b89016a7ae4f" name="Estados" linkedPackageId="626488df-966a-4892-a67a-13705e16fbe1" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ComponentDesigner">
+  <ownedCommentsInternal>
+    <comment Id="4b72de0f-b2b1-4735-bd9d-4d7ddf7a1972">
+      <elementDefinition Id="b05c257e-95e9-4f2a-9b4f-c7dbcac5e9e7" />
+      <body>Sólo si el jugador se queda con menos de una vida.</body>
+    </comment>
+    <comment Id="3806d54c-a4bc-4603-b1e8-ffc739373f71">
+      <elementDefinition Id="ef4933c7-ea9e-44fb-9060-22d7f3673a4c" />
+      <body>Sólo si se le da a la teclas "esc"</body>
+    </comment>
+    <comment Id="b106d91e-210b-40cc-9d14-79f0109422e6">
+      <elementDefinition Id="3a2e9db0-7e2f-4331-864f-da57e9cae206" />
+      <body>Salir</body>
+      <annotatedElements>
+        <componentMoniker Id="1549a44f-84ee-4482-8582-d23ff8f88675" LastKnownName="Menu" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <packagedElements>
+    <componentModelHasComponents>
+      <component Id="1549a44f-84ee-4482-8582-d23ff8f88675" name="Menu" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a8683505-9517-453c-9585-4d60c0814020" />
+        <generalsInternal>
+          <generalization Id="e63ee3f8-40db-4320-aa09-fe1cf82c1740" isSubstitutable="false">
+            <componentMoniker Id="3b221a15-571e-42fa-b648-7a90b8f740ed" LastKnownName="Seleccionar nivel" />
+            <elementDefinition Id="a91c2fe3-5c96-4b83-b743-035f69b5a270" />
+          </generalization>
+          <generalization Id="ff3c5439-1814-4f4f-bc2b-74d50e1f8c85" isSubstitutable="false">
+            <componentMoniker Id="1c6daf49-e811-4601-aa48-efb27dc7e637" LastKnownName="Configuración" />
+            <elementDefinition Id="6451ff93-7863-4fca-a648-e3d075395b6a" />
+          </generalization>
+          <generalization Id="f854db49-f283-4057-a150-4b294bb73595" isSubstitutable="false">
+            <componentMoniker Id="a66725ef-2fb3-4698-93cf-2286e87cd031" LastKnownName="Primera fase" />
+            <elementDefinition Id="5c0e5e8c-617e-47b3-a4c2-38c6156255a5" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="a66725ef-2fb3-4698-93cf-2286e87cd031" name="Primera fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f01ec560-4ff0-4b8b-80d6-517e8e657792" />
+        <suppliersInternal>
+          <dependency Id="1893b164-512c-411f-88cb-a4c34091ce95">
+            <componentMoniker Id="91658baf-8918-4869-aa9d-35c01f750b39" LastKnownName="Game Over" />
+            <elementDefinition Id="c00fe3ad-9d62-42f0-80c2-41e0646bac61" />
+          </dependency>
+          <dependency Id="a9bfe48a-569c-4343-8eff-a2d7a1ea0593">
+            <componentMoniker Id="31ceed63-e030-4397-8cf8-49e9dc11de68" LastKnownName="Pause" />
+            <elementDefinition Id="79da66fa-f87f-4bb4-8cbd-f5888dc31346" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="fd61360f-03d4-4906-a064-d6fe14f6c2c8" isSubstitutable="false">
+            <componentMoniker Id="7c209eb7-86f6-48bd-8f60-46f83efe40e4" LastKnownName="Segunda fase" />
+            <elementDefinition Id="c1705e1b-be75-48cc-bafd-0592e756f098" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="7c209eb7-86f6-48bd-8f60-46f83efe40e4" name="Segunda fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="229638c2-b98c-415f-bb56-64508f6da6d6" />
+        <suppliersInternal>
+          <dependency Id="a710ed36-fe19-4d07-aa5a-dcf840d104e1">
+            <componentMoniker Id="91658baf-8918-4869-aa9d-35c01f750b39" LastKnownName="Game Over" />
+            <elementDefinition Id="098d98b1-dbe5-46a1-a354-d33832f666de" />
+          </dependency>
+          <dependency Id="b07dae0a-4259-40d3-b5ce-a8471fba1af7">
+            <componentMoniker Id="31ceed63-e030-4397-8cf8-49e9dc11de68" LastKnownName="Pause" />
+            <elementDefinition Id="162b39fa-4922-4a94-ba2d-54cdd5e38e77" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="ca94ce03-1b53-444f-9e71-64a5e6020b17" isSubstitutable="false">
+            <componentMoniker Id="082ff252-4656-44fe-a5da-9c01c3dff055" LastKnownName="Tercera fase" />
+            <elementDefinition Id="50c96d0d-1a1f-480f-8677-03cb693b1d8a" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="082ff252-4656-44fe-a5da-9c01c3dff055" name="Tercera fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="e9a1df42-dff1-4c70-b492-b79b77c1b666" />
+        <suppliersInternal>
+          <dependency Id="bb0862d8-f6f8-4b8d-82f4-479553b47535">
+            <componentMoniker Id="91658baf-8918-4869-aa9d-35c01f750b39" LastKnownName="Game Over" />
+            <elementDefinition Id="35831d65-43cd-4291-a2d6-978466e3d02a" />
+          </dependency>
+          <dependency Id="2ada2e2d-0e2e-41e2-857c-a8855ded8d65">
+            <componentMoniker Id="31ceed63-e030-4397-8cf8-49e9dc11de68" LastKnownName="Pause" />
+            <elementDefinition Id="768d1375-6773-4f9b-b7cc-956e335d9a7a" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization Id="5236c231-0989-4d5b-8010-d60baf086104" isSubstitutable="false">
+            <componentMoniker Id="e1fd6750-2819-48a6-9444-6642f6311310" LastKnownName="Créditos" />
+            <elementDefinition Id="fae9af61-5e6d-4513-ae8b-0fa7bbb271de" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="91658baf-8918-4869-aa9d-35c01f750b39" name="Game Over" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="31ceed63-e030-4397-8cf8-49e9dc11de68" name="Pause" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51" />
+        <suppliersInternal>
+          <dependency Id="8e7d8979-4dc2-4a87-afc3-dca5329f2ea8">
+            <componentMoniker Id="e1fd6750-2819-48a6-9444-6642f6311310" LastKnownName="Créditos" />
+            <elementDefinition Id="02801003-7d4b-46d1-a157-1d667cda4639" />
+          </dependency>
+          <dependency Id="c951eb66-edc8-4208-a563-54ba6fdbe0a1">
+            <componentMoniker Id="082ff252-4656-44fe-a5da-9c01c3dff055" LastKnownName="Tercera fase" />
+            <elementDefinition Id="0b936832-8596-452b-b707-ede3816b8ada" />
+          </dependency>
+          <dependency Id="86bbc7fc-f209-4244-856d-7e1130a47404">
+            <componentMoniker Id="a66725ef-2fb3-4698-93cf-2286e87cd031" LastKnownName="Primera fase" />
+            <elementDefinition Id="487ddf5b-c859-4f94-90d0-542346bb2cdd" />
+          </dependency>
+          <dependency Id="2d96478d-6fb4-4e8b-88ab-8fcaf542af4c">
+            <componentMoniker Id="1549a44f-84ee-4482-8582-d23ff8f88675" LastKnownName="Menu" />
+            <elementDefinition Id="b9050abc-dafe-477c-b9a1-bb8b8e0fc047" />
+          </dependency>
+        </suppliersInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="3b221a15-571e-42fa-b648-7a90b8f740ed" name="Seleccionar nivel" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="6223a2dd-2e48-4d15-9fb9-56b9d53f19ce" />
+        <generalsInternal>
+          <generalization Id="aa38e56e-f8e9-4873-80cd-cc33de694d0f" isSubstitutable="false">
+            <componentMoniker Id="a66725ef-2fb3-4698-93cf-2286e87cd031" LastKnownName="Primera fase" />
+            <elementDefinition Id="107e9e5d-11f3-498b-9996-8d855511c368" />
+          </generalization>
+          <generalization Id="3ba238bc-0fce-495a-aba5-5d5731cba21b" isSubstitutable="false">
+            <componentMoniker Id="7c209eb7-86f6-48bd-8f60-46f83efe40e4" LastKnownName="Segunda fase" />
+            <elementDefinition Id="4ae21eb9-382d-4b76-a708-fbf971f919ce" />
+          </generalization>
+          <generalization Id="e6ed46cf-e700-4dcf-bb93-96b979db6ede" isSubstitutable="false">
+            <componentMoniker Id="082ff252-4656-44fe-a5da-9c01c3dff055" LastKnownName="Tercera fase" />
+            <elementDefinition Id="dbe8d225-080f-4ad7-93db-f8ff0a67b4c0" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="1c6daf49-e811-4601-aa48-efb27dc7e637" name="Configuración" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="60cdc071-e9cf-4791-a1f7-56bcc679e58a" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="e1fd6750-2819-48a6-9444-6642f6311310" name="Créditos" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="bd988d77-d42b-4e59-8261-04383f148f2c" />
+        <suppliersInternal>
+          <dependency Id="89adc1df-9ff2-4f20-8775-63bfcfda1abe">
+            <componentMoniker Id="31ceed63-e030-4397-8cf8-49e9dc11de68" LastKnownName="Pause" />
+            <elementDefinition Id="0566b53a-8417-4b22-a42b-37352e0b1033" />
+          </dependency>
+        </suppliersInternal>
+      </component>
+    </componentModelHasComponents>
+  </packagedElements>
+  <package Id="626488df-966a-4892-a67a-13705e16fbe1" name="ModelingProject1">
+    <elementDefinition Id="da50b2fa-87ea-47e2-b09c-a6f3313f797a" />
+    <profileInstances>
+      <packageHasProfileInstances Id="4c8981c4-f49e-48f0-a5ea-8c4db55c05a7">
+        <profileInstance Id="75e761e1-b1b1-4418-8386-90b8c5b3b127" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="5e50c465-790f-46c4-b265-2a01fe0dfb7c">
+        <profileInstance Id="fc096c64-608b-439f-be33-3871c80f9391" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</componentModel>

@@ -1,0 +1,22 @@
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\PrimerJuego\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\PrimerJuego\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\PrimerJuegoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\PrimerJuegoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\PrimerJuegoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\PrimerJuegoContent.contentprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuegoContent\obj\x86\Debug\Sonidos\sonidos.xml

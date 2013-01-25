@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<componentDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLComponentDiagram1">
+  <componentModelMoniker Id="993d89d7-9f50-4447-96e8-b89016a7ae4f" />
+  <nestedChildShapes>
+    <componentShape Id="806a8adb-3f2a-4dc3-b7eb-8ac12d790824" isExpanded="false" absoluteBounds="0.75, 0.75, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="1549a44f-84ee-4482-8582-d23ff8f88675" LastKnownName="Menu" />
+    </componentShape>
+    <componentShape Id="ad892b05-93fa-4133-930b-37949ca26048" isExpanded="false" absoluteBounds="8.625, 1.625, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="a66725ef-2fb3-4698-93cf-2286e87cd031" LastKnownName="Primera fase" />
+    </componentShape>
+    <componentShape Id="def87c24-990f-46e8-b05e-c22eb8aa8d44" isExpanded="false" absoluteBounds="0.625, 3.5, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="7c209eb7-86f6-48bd-8f60-46f83efe40e4" LastKnownName="Segunda fase" />
+    </componentShape>
+    <componentShape Id="71e80394-b248-4ee9-ae8a-082d3bcf67c2" isExpanded="false" absoluteBounds="4.375, 2.625, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="082ff252-4656-44fe-a5da-9c01c3dff055" LastKnownName="Tercera fase" />
+    </componentShape>
+    <componentShape Id="84a46734-96f5-4f6e-b9ff-c3b593f0f5f3" isExpanded="false" absoluteBounds="6.875, 2.5, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="91658baf-8918-4869-aa9d-35c01f750b39" LastKnownName="Game Over" />
+    </componentShape>
+    <componentShape Id="8dc9e1fb-7ee9-4cc4-ba3a-4a3d91a6ed7e" isExpanded="false" absoluteBounds="6.375, 0.75, 1.5, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="31ceed63-e030-4397-8cf8-49e9dc11de68" LastKnownName="Pause" />
+    </componentShape>
+    <componentShape Id="ceff3929-285f-4070-9959-7b43a9a55991" isExpanded="false" absoluteBounds="1.875, 2.3333332538604736, 1.9833333333333334, 0.7" customColor="161, 199, 231" whiteBoxBoundsHeight="0.95" whiteBoxBoundsWidth="1.5" blackBoxBoundsHeight="0.7" blackBoxBoundsWidth="1.5" whiteBoxTopEdgeShapesCount="0" whiteBoxRightEdgeShapesCount="0" whiteBoxBottomEdgeShapesCount="0" whiteBoxLeftEdgeShapesCount="0" blackBoxTopEdgeShapesCount="0" blackBoxRightEdgeShapesCount="0" blackBoxBottomEdgeShapesCount="0" blackBoxLeftEdgeShapesCount="0" whiteBoxSettingsInitialized="true" blackBoxSettingsInitialized="true">
+      <componentMoniker Id="3b221a15-571e-42fa-b648-7a90b8f740ed" LastKnownName="Seleccionar nivel" />
+    </componentShape>
+    <generalizationConnector edgePoints="[(1.5 : 1.45); (1.5 : 1.95833325386047); (2.86666666666667 : 1.95833325386047); (2.86666666666667 : 2.33333325386047)]" fixedFrom="NotFixed" fixedTo="NotFixed" customColor="113, 111, 110">
+      <generalizationMoniker Id="e63ee3f8-40db-4320-aa09-fe1cf82c1740" />
+      <relativeChildShapes />
+      <nodes>
+        <componentShapeMoniker Id="806a8adb-3f2a-4dc3-b7eb-8ac12d790824" />
+        <componentShapeMoniker Id="ceff3929-285f-4070-9959-7b43a9a55991" />
+      </nodes>
+    </generalizationConnector>
+  </nestedChildShapes>
+</componentDiagram>

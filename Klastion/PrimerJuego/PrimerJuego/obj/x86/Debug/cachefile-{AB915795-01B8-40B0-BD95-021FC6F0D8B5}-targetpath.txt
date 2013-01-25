@@ -1,0 +1,42 @@
+Content\Images\dell.xnb
+Content\Images\bullet.xnb
+Content\Images\escenarios.xnb
+Content\Images\costume1.xnb
+Content\Images\jefe.xnb
+Content\Images\bolaFuego.xnb
+Content\Images\pj.xnb
+Content\Images\mon.xnb
+Content\Images\cursor.xnb
+Content\Images\disparo.xnb
+Content\Images\terreno1.xnb
+Content\Images\terreno3.xnb
+Content\Images\fondo1sin.xnb
+Content\Images\fondo2sin.xnb
+Content\Images\terrenolargo.xnb
+Content\Images\terreno2.xnb
+Content\Images\menuSprite.xnb
+Content\Images\menuDegradado.xnb
+Content\Images\vidaSprite.xnb
+Content\Images\gameover.xnb
+Content\Images\terrenoRecto.xnb
+Content\Images\selectMenu.xnb
+Content\Images\growlie.xnb
+Content\Images\final.xnb
+Content\Images\LevelComplete.xnb
+Content\Images\kiel.xnb
+Content\Images\DisparoJefe.xnb
+Content\Images\vidaSpriteKiel.xnb
+Content\Images\meteorito.xnb
+Content\Images\pause.xnb
+Content\Images\creditos.xnb
+Content\Images\configuracion.xnb
+Content\Fuentes\fuente.xnb
+Content\Sonidos\sonidos.xgs
+Content\Sonidos\Wave Bank.xwb
+Content\Sonidos\Wave Music.xwb
+Content\Sonidos\Wave Ambient.xwb
+Content\Sonidos\Wave Bank 2.xwb
+Content\Sonidos\Sound Bank.xsb
+Content\Sonidos\Music Bank.xsb
+Content\Sonidos\Ambient Bank.xsb
+Content\Sonidos\Sound Bank 2.xsb

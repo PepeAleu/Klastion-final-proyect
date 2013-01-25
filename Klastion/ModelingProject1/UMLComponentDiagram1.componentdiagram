@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<componentModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/LogicalClassDesigner" xmlns:dm10="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm11="http://schemas.microsoft.com/dsltools/UseCaseModel" dslVersion="1.0.0.0" Id="993d89d7-9f50-4447-96e8-b89016a7ae4f" name="UMLComponentDiagram1" linkedPackageId="626488df-966a-4892-a67a-13705e16fbe1" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ComponentDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="4c8981c4-f49e-48f0-a5ea-8c4db55c05a7">
+      <profileInstance Id="75e761e1-b1b1-4418-8386-90b8c5b3b127" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="5e50c465-790f-46c4-b265-2a01fe0dfb7c">
+      <profileInstance Id="fc096c64-608b-439f-be33-3871c80f9391" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <componentModelHasComponents>
+      <component Id="1549a44f-84ee-4482-8582-d23ff8f88675" name="Menu" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a8683505-9517-453c-9585-4d60c0814020" />
+        <generalsInternal>
+          <generalization Id="e63ee3f8-40db-4320-aa09-fe1cf82c1740" isSubstitutable="false">
+            <componentMoniker Id="3b221a15-571e-42fa-b648-7a90b8f740ed" LastKnownName="Seleccionar nivel" />
+            <elementDefinition Id="a91c2fe3-5c96-4b83-b743-035f69b5a270" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="a66725ef-2fb3-4698-93cf-2286e87cd031" name="Primera fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="f01ec560-4ff0-4b8b-80d6-517e8e657792" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="7c209eb7-86f6-48bd-8f60-46f83efe40e4" name="Segunda fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="229638c2-b98c-415f-bb56-64508f6da6d6" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="082ff252-4656-44fe-a5da-9c01c3dff055" name="Tercera fase" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="e9a1df42-dff1-4c70-b492-b79b77c1b666" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="91658baf-8918-4869-aa9d-35c01f750b39" name="Game Over" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="31ceed63-e030-4397-8cf8-49e9dc11de68" name="Pause" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51" />
+      </component>
+    </componentModelHasComponents>
+    <componentModelHasComponents>
+      <component Id="3b221a15-571e-42fa-b648-7a90b8f740ed" name="Seleccionar nivel" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="6223a2dd-2e48-4d15-9fb9-56b9d53f19ce" />
+      </component>
+    </componentModelHasComponents>
+  </packagedElements>
+  <package Id="626488df-966a-4892-a67a-13705e16fbe1" name="ModelingProject1">
+    <elementDefinition Id="da50b2fa-87ea-47e2-b09c-a6f3313f797a" />
+  </package>
+</componentModel>

@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1299195776;
+    Bank Last Revised High = 30266119;
+
+    Wave
+    {
+        Name = rk01at00_e;
+        File = Riku\rk01at00_e.wav;
+        Build Settings Last Modified Low = 3687464033;
+        Build Settings Last Modified High = 30250844;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 40880;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1786895360;
+            Last Modified High = 30259965;
+        }
+    }
+
+    Wave
+    {
+        Name = au1;
+        File = sonidos\au1.wav;
+        Build Settings Last Modified Low = 3167897940;
+        Build Settings Last Modified High = 30262859;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 32704;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3782307072;
+            Last Modified High = 30262118;
+        }
+    }
+
+    Wave
+    {
+        Name = au2;
+        File = sonidos\au2.wav;
+        Build Settings Last Modified Low = 3219130870;
+        Build Settings Last Modified High = 30262859;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 47488;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3762307072;
+            Last Modified High = 30262118;
+        }
+    }
+
+    Wave
+    {
+        Name = jump;
+        File = sonidos\jump.wav;
+        Build Settings Last Modified Low = 2103439776;
+        Build Settings Last Modified High = 30262119;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 56;
+            Play Region Length = 1613;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3340743168;
+            Last Modified High = 30081817;
+        }
+    }
+
+    Wave
+    {
+        Name = disparo2;
+        File = sonidos\disparo2.wav;
+        Build Settings Last Modified Low = 1978144672;
+        Build Settings Last Modified High = 30262143;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 32038;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 55808;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1684764672;
+            Last Modified High = 30262143;
+        }
+    }
+
+    Wave
+    {
+        Name = disparo1;
+        File = sonidos\disparo1.wav;
+        Build Settings Last Modified Low = 1978154672;
+        Build Settings Last Modified High = 30262143;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 32003;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 50688;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1555654672;
+            Last Modified High = 30262143;
+        }
+    }
+
+    Wave
+    {
+        Name = caido;
+        File = sonidos\caido.wav;
+        Build Settings Last Modified Low = 1956843600;
+        Build Settings Last Modified High = 30262150;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 185024;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1986895360;
+            Last Modified High = 30259965;
+        }
+    }
+
+    Wave
+    {
+        Name = gritokiel;
+        File = sonidos\gritokiel.wav;
+        Build Settings Last Modified Low = 1016285776;
+        Build Settings Last Modified High = 30266119;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 0;
+            Play Region Offset = 46;
+            Play Region Length = 32368;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 346096032;
+            Last Modified High = 30266108;
+        }
+    }
+}
+
+</WaveBank>
+  <WaveBank Name="Wave Music">Wave Bank
+{
+    Name = Wave Music;
+    Xbox File = Xbox\Wave Music.xwb;
+    Windows File = Win\Wave Music.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Bank Last Revised Low = 3267024096;
+    Bank Last Revised High = 30266699;
+
+    Wave
+    {
+        Name = ingame;
+        File = sonidos\ingame.wav;
+        Build Settings Last Modified Low = 4137971881;
+        Build Settings Last Modified High = 30262862;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 16690364;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4127339776;
+            Last Modified High = 30262119;
+        }
+    }
+
+    Wave
+    {
+        Name = menu;
+        File = sonidos\menu.wav;
+        Build Settings Last Modified Low = 4137981882;
+        Build Settings Last Modified High = 30262862;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 17399996;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3347339776;
+            Last Modified High = 30262119;
+        }
+    }
+
+    Wave
+    {
+        Name = muerto;
+        File = sonidos\muerto.wav;
+        Build Settings Last Modified Low = 4137981882;
+        Build Settings Last Modified High = 30262862;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 15814844;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2547339776;
+            Last Modified High = 30262119;
+        }
+    }
+
+    Wave
+    {
+        Name = kiel;
+        File = sonidos\kiel.wav;
+        Build Settings Last Modified Low = 2407723072;
+        Build Settings Last Modified High = 30266118;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 39886848;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2682065216;
+            Last Modified High = 30266104;
+        }
+    }
+
+    Wave
+    {
+        Name = batidora;
+        File = sonidos\batidora.wav;
+        Build Settings Last Modified Low = 3195734096;
+        Build Settings Last Modified High = 30266699;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 92;
+            Play Region Length = 30720760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2532084096;
+            Last Modified High = 30266699;
+        }
+    }
+}
+
+</WaveBank>
+  <WaveBank Name="Wave Ambient">Wave Bank
+{
+    Name = Wave Ambient;
+    Xbox File = Xbox\Wave Ambient.xwb;
+    Windows File = Win\Wave Ambient.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1387756216;
+    Bank Last Revised High = 30262861;
+
+    Wave
+    {
+        Name = viento;
+        File = sonidos\viento.wav;
+        Build Settings Last Modified Low = 1387756216;
+        Build Settings Last Modified High = 30262861;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 3773952;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1258350452;
+            Last Modified High = 30262860;
+        }
+    }
+}
+
+</WaveBank>
+  <WaveBank Name="Wave Bank 2">Wave Bank
+{
+    Name = Wave Bank 2;
+    Xbox File = Xbox\Wave Bank 2.xwb;
+    Windows File = Win\Wave Bank 2.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 1545785776;
+    Bank Last Revised High = 30266119;
+
+    Wave
+    {
+        Name = bicho1;
+        File = sonidos\bicho1.wav;
+        Build Settings Last Modified Low = 1828613296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 32111;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 17408;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2262551664;
+            Last Modified High = 30262116;
+        }
+    }
+
+    Wave
+    {
+        Name = bicho2;
+        File = sonidos\bicho2.wav;
+        Build Settings Last Modified Low = 1828613296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 31966;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 17152;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2827571664;
+            Last Modified High = 30262116;
+        }
+    }
+
+    Wave
+    {
+        Name = bicho3;
+        File = sonidos\bicho3.wav;
+        Build Settings Last Modified Low = 1828623296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 31782;
+            Bits Per Sample = 1;
+            Play Region Offset = 80;
+            Play Region Length = 16896;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2958771664;
+            Last Modified High = 30262116;
+        }
+    }
+
+    Wave
+    {
+        Name = salto1;
+        File = sonidos\salto1.wav;
+        Build Settings Last Modified Low = 1828633296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 17192;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1766895360;
+            Last Modified High = 30259965;
+        }
+    }
+
+    Wave
+    {
+        Name = salto2;
+        File = sonidos\salto2.wav;
+        Build Settings Last Modified Low = 1828633296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 32760;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1746895360;
+            Last Modified High = 30259965;
+        }
+    }
+
+    Wave
+    {
+        Name = salto3;
+        File = sonidos\salto3.wav;
+        Build Settings Last Modified Low = 1828643296;
+        Build Settings Last Modified High = 30262124;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 27328;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1746895360;
+            Last Modified High = 30259965;
+        }
+    }
+
+    Wave
+    {
+        Name = terremoto;
+        File = sonidos\terremoto.wav;
+        Build Settings Last Modified Low = 1504975776;
+        Build Settings Last Modified High = 30266119;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 22050;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 214184;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 337446032;
+            Last Modified High = 30266108;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

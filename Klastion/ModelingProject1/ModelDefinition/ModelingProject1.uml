@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/VisualStudio/TeamArchitect/ComponentDesigner"
+  dslVersion="1.0.0.0"
+  Id="da50b2fa-87ea-47e2-b09c-a6f3313f797a"
+  name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="b05c257e-95e9-4f2a-9b4f-c7dbcac5e9e7">
+      <body>Sólo si el jugador se queda con menos de una vida.</body>
+    </comment>
+    <comment
+      Id="ef4933c7-ea9e-44fb-9060-22d7f3673a4c">
+      <body>Sólo si se le da a la teclas "esc"</body>
+    </comment>
+    <comment
+      Id="3a2e9db0-7e2f-4331-864f-da57e9cae206">
+      <body>Salir</body>
+      <annotatedElements>
+        <componentMoniker
+          Id="a8683505-9517-453c-9585-4d60c0814020"
+          LastKnownName="Menu"
+          LastKnownLocation="ModelingProject1.uml" />
+      </annotatedElements>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <component
+        Id="a8683505-9517-453c-9585-4d60c0814020"
+        name="Menu"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <generalsInternal>
+          <generalization
+            Id="a91c2fe3-5c96-4b83-b743-035f69b5a270"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="6223a2dd-2e48-4d15-9fb9-56b9d53f19ce"
+              LastKnownName="Seleccionar nivel"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+          <generalization
+            Id="6451ff93-7863-4fca-a648-e3d075395b6a"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="60cdc071-e9cf-4791-a1f7-56bcc679e58a"
+              LastKnownName="Configuración"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+          <generalization
+            Id="5c0e5e8c-617e-47b3-a4c2-38c6156255a5"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="f01ec560-4ff0-4b8b-80d6-517e8e657792"
+              LastKnownName="Primera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="f01ec560-4ff0-4b8b-80d6-517e8e657792"
+        name="Primera fase"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="c00fe3ad-9d62-42f0-80c2-41e0646bac61">
+            <componentMoniker
+              Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81"
+              LastKnownName="Game Over"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="79da66fa-f87f-4bb4-8cbd-f5888dc31346">
+            <componentMoniker
+              Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51"
+              LastKnownName="Pause"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization
+            Id="c1705e1b-be75-48cc-bafd-0592e756f098"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="229638c2-b98c-415f-bb56-64508f6da6d6"
+              LastKnownName="Segunda fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="229638c2-b98c-415f-bb56-64508f6da6d6"
+        name="Segunda fase"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="098d98b1-dbe5-46a1-a354-d33832f666de">
+            <componentMoniker
+              Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81"
+              LastKnownName="Game Over"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="162b39fa-4922-4a94-ba2d-54cdd5e38e77">
+            <componentMoniker
+              Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51"
+              LastKnownName="Pause"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization
+            Id="50c96d0d-1a1f-480f-8677-03cb693b1d8a"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="e9a1df42-dff1-4c70-b492-b79b77c1b666"
+              LastKnownName="Tercera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="e9a1df42-dff1-4c70-b492-b79b77c1b666"
+        name="Tercera fase"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="35831d65-43cd-4291-a2d6-978466e3d02a">
+            <componentMoniker
+              Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81"
+              LastKnownName="Game Over"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="768d1375-6773-4f9b-b7cc-956e335d9a7a">
+            <componentMoniker
+              Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51"
+              LastKnownName="Pause"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+        </suppliersInternal>
+        <generalsInternal>
+          <generalization
+            Id="fae9af61-5e6d-4513-ae8b-0fa7bbb271de"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="bd988d77-d42b-4e59-8261-04383f148f2c"
+              LastKnownName="Créditos"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="3d06f63d-3aa9-483b-8cb7-dcec0a9b8c81"
+        name="Game Over"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51"
+        name="Pause"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="02801003-7d4b-46d1-a157-1d667cda4639">
+            <componentMoniker
+              Id="bd988d77-d42b-4e59-8261-04383f148f2c"
+              LastKnownName="Créditos"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="0b936832-8596-452b-b707-ede3816b8ada">
+            <componentMoniker
+              Id="e9a1df42-dff1-4c70-b492-b79b77c1b666"
+              LastKnownName="Tercera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="487ddf5b-c859-4f94-90d0-542346bb2cdd">
+            <componentMoniker
+              Id="f01ec560-4ff0-4b8b-80d6-517e8e657792"
+              LastKnownName="Primera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+          <dependency
+            Id="b9050abc-dafe-477c-b9a1-bb8b8e0fc047">
+            <componentMoniker
+              Id="a8683505-9517-453c-9585-4d60c0814020"
+              LastKnownName="Menu"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+        </suppliersInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="6223a2dd-2e48-4d15-9fb9-56b9d53f19ce"
+        name="Seleccionar nivel"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <generalsInternal>
+          <generalization
+            Id="107e9e5d-11f3-498b-9996-8d855511c368"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="f01ec560-4ff0-4b8b-80d6-517e8e657792"
+              LastKnownName="Primera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+          <generalization
+            Id="4ae21eb9-382d-4b76-a708-fbf971f919ce"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="229638c2-b98c-415f-bb56-64508f6da6d6"
+              LastKnownName="Segunda fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+          <generalization
+            Id="dbe8d225-080f-4ad7-93db-f8ff0a67b4c0"
+            isSubstitutable="false">
+            <componentMoniker
+              Id="e9a1df42-dff1-4c70-b492-b79b77c1b666"
+              LastKnownName="Tercera fase"
+              LastKnownLocation="ModelingProject1.uml" />
+          </generalization>
+        </generalsInternal>
+      </component>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="60cdc071-e9cf-4791-a1f7-56bcc679e58a"
+        name="Configuración"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <component
+        Id="bd988d77-d42b-4e59-8261-04383f148f2c"
+        name="Créditos"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <suppliersInternal>
+          <dependency
+            Id="0566b53a-8417-4b22-a42b-37352e0b1033">
+            <componentMoniker
+              Id="d346ad67-dba6-4e8f-aa6b-83d6a54abe51"
+              LastKnownName="Pause"
+              LastKnownLocation="ModelingProject1.uml" />
+          </dependency>
+        </suppliersInternal>
+      </component>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

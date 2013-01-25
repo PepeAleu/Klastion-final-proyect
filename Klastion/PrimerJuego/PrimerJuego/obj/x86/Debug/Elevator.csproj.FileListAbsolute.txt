@@ -1,0 +1,342 @@
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\adell.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\Prota.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\Casa.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\lucy.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\personaje1.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell2.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\puntero.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\diagonal.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios2.xnb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\pepe\Dropbox\Pepe DAI\VB 2010\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\puntero.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\diagonal.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\2ºDAI\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\puntero.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\diagonal.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\puntero.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\diagonal.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Usuario\Documents\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Usuario\Documents\Pepe\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\2ºDAI\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\DisparoJefe.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSpriteKiel.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\meteorito.xnb
+C:\Users\Aleu\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pause.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\DisparoJefe.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSpriteKiel.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\meteorito.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pause.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Paco\Desktop\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\DisparoJefe.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSpriteKiel.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\meteorito.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pause.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.exe
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\obj\x86\Debug\PrimerJuego.pdb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\creditos.xnb
+C:\Users\Aleu\Desktop\Proyecto\Elevator\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\configuracion.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\dell.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\escenarios.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\costume1.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\jefe.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\bolaFuego.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pj.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\mon.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\disparo.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno1.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno3.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo1sin.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\fondo2sin.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenolargo.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terreno2.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuSprite.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\menuDegradado.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSprite.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\terrenoRecto.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\selectMenu.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\growlie.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\final.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\LevelComplete.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\kiel.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\DisparoJefe.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\vidaSpriteKiel.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\meteorito.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\pause.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\creditos.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Images\configuracion.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Fuentes\fuente.xnb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\sonidos.xgs
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank.xwb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Music.xwb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Ambient.xwb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Wave Bank 2.xwb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank.xsb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Music Bank.xsb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Ambient Bank.xsb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Content\Sonidos\Sound Bank 2.xsb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\obj\x86\Debug\Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Klastion.exe
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\bin\x86\Debug\Klastion.pdb
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\obj\x86\Debug\Klastion.exe
+C:\Users\Aleu\Desktop\alpha\Klastion\PrimerJuego\PrimerJuego\obj\x86\Debug\Klastion.pdb
